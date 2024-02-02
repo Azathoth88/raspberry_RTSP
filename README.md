@@ -10,6 +10,10 @@ Der Stream kann innerhalb der Synology Surveillance Station zur Überwachung ein
 - Raspberry Pi Imager: https://www.raspberrypi.com/software/
 
 ## Installation ##
+> [!CAUTION]
+> Achtung: Das Skript verwendet derzeit den Standard-Benutzer "pi"
+
+
 Repository herunterladen
 ```bash
 git clone https://github.com/Azathoth88/raspberry_RTSP.git
