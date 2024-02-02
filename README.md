@@ -31,6 +31,12 @@ Wenn die Installation erfolgreich war, lässt sich der Stream am Desktop-Client 
 Die folgende URL eingeben: **rtsp://IP-vom-RaspberryPi:8554/stream**
 
 
+## Einbindung in Synology Surveillance Station ##
+* Neue Kamera hinzufügen
+* Marke: Benutzer definiert
+* Typ: Streaming - RTSP
+* Pfad: IP-vom-RaspberryPi:8554/stream
+
 ## Danksagung ##
 Vielen Dank an BERRY DE JAGER, der ursprünglich auf seiner Homepage eine passende Anleitung bereitgestellt hat:
 https://code.berrydejager.com/Libcamera-RTSP/
