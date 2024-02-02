@@ -27,3 +27,8 @@ chmod +x install_streamer.sh
 ## Stream-Aufruf ##
 Der Stream lässt sich im VLC-Player testen:
 rtsp://IP:8554/stream
+
+
+## Danksagung ##
+Vielen Dank an BERRY DE JAGER, der ursprünglich auf seiner Homepage eine passende Anleitung bereitgestellt hat:
+https://code.berrydejager.com/Libcamera-RTSP/
