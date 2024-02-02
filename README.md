@@ -20,7 +20,7 @@ git clone https://github.com/Azathoth88/raspberry_RTSP.git
 ```
 Installer-Skript ausführen
 ```bash
-cd raspberry_RTSP.git
+cd raspberry_RTSP
 chmod +x install_streamer.sh
 ./install_streamer.sh
 ```
