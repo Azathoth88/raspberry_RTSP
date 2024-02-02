@@ -25,8 +25,10 @@ chmod +x install_streamer.sh
 ./install_streamer.sh
 ```
 ## Stream-Aufruf ##
-Der Stream lässt sich im VLC-Player testen:
-rtsp://IP:8554/stream
+Wenn die Installation erfolgreich war, lässt sich der Stream am Desktop-Client über den VLC-Player testen:
+**VLC-Player** starten und zu **Medien** -> **Netzwerkstream öffnen** oder **STRG+N** eingeben.
+
+Die folgende URL eingeben: **rtsp://IP-vom-RaspberryPi:8554/stream**
 
 
 ## Danksagung ##
