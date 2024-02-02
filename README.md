@@ -20,3 +20,6 @@ cd raspberry_RTSP.git
 chmod +x install_streamer.sh
 ./install_streamer.sh
 ```
+## Stream-Aufruf ##
+Der Stream lässt sich im VLC-Player testen:
+rtsp://IP:8554/stream
