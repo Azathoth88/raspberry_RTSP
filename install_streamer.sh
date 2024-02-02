@@ -16,6 +16,10 @@ sudo cp stream.sh /home/pi/stream.sh
 # Setzen der Ausführungsrechte für die stream.sh
 sudo chmod +x /home/pi/stream.sh
 
+# Setzen des Besitzers und der Berechtigungen für die stream.sh
+sudo chown pi:pi /home/pi/stream.sh
+sudo chmod 644 /home/pi/stream.sh
+
 # Kopieren der stream.service in das system-wide systemd Verzeichnis
 sudo cp stream.service /lib/systemd/system/stream.service
 
