@@ -1,5 +1,13 @@
 ## Beschreibung ##
-Dieses Skript erstellt einen RTSP-Stream auf einem Raspberry-Pi und erstellt einen automatischen System-Service.
+Dieses Skript erstellt einen RTSP-Stream auf einem Raspberry-Pi und erstellt einen System-Service.
+Der Stream kann innerhalb der Synology Surveillance Station zur Überwachung eingebunden werden.
+
+## Installationsumgebung ##
+- Raspberry Pi 3 (Raspberry Pi OS (Legacy, 32-Bit)
+- Raspberry Camera Module 3 | Camera Module 3 NoIR
+
+## Tools / Hilfsmittel ##
+- Raspberry Pi Imager: https://www.raspberrypi.com/software/
 
 ## Installation ##
 Repository herunterladen
