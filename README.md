@@ -10,10 +10,15 @@ Der Stream kann innerhalb der Synology Surveillance Station zur Überwachung ein
 - Raspberry Pi Imager: https://www.raspberrypi.com/software/
 - SD Card Formatter: https://www.sdcard.org/downloads/formatter/
 
+
+
 ## Installation ##
 > [!CAUTION]
 > Achtung: Das Skript verwendet derzeit den Standard-Benutzer "pi"
 
+```bash
+sudo apt-get install git
+```
 
 Repository herunterladen
 ```bash
