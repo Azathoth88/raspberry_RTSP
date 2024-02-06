@@ -43,7 +43,8 @@ Die folgende URL eingeben: **rtsp://IP-vom-RaspberryPi:8554/stream**
 ## Hilfsskripte ##
 Neustart
 ```bash
-sudo shutdown -r now```
+sudo shutdown -r now
+```
 
 
 ## Einbindung in Synology Surveillance Station ##
